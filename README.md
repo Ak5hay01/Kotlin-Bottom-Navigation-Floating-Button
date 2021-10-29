@@ -8,7 +8,7 @@ Dependency used
     implementation 'com.google.android.material:material:1.5.0-alpha05'
     
 ```
-NOTE: if using above dependency please make sure your compileSdk from build.gradel file is set to 31, if might face any error. 
+NOTE: If using above dependency please make sure your compileSdk from build.gradel file is set to 31, if might face any error. 
 
 # Home Screen 
 ![alt text](/screenshots/home.PNG)
